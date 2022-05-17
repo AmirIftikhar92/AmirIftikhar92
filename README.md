@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @AmirIftikhar92
-- 👀 I’m interested in .NET technologies.
+- 👋 Hi, I’m Amir Iftikhar
+- 👀 Mostly, I develop in .NET
 - 🌱 I never stop learning. 
 - 💞️ I look forward to collaborate.
-- 📫 Reach me at amir_2824@hotmail.com
+- 📫 Reach me at GitHub.
 
 <!---
-AmirIftikhar92/AmirIftikhar92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+AmirIftikhar92/AmirIftikhar92 is my introduction repository.
 --->
