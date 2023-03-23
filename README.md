@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amir Iftikhar
-- 👀 Mostly, I develop in .NET
+- 👀 Mostly, I develop in .NET and .NET Core
 - 🌱 I never stop learning. 
 - 💞️ I look forward to collaborate.
 - 📫 Reach me at GitHub.
